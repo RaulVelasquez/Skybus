@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Skybus</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="ingresa_aplicacion">Ingresa</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_reference1">Map</string>
+</resources>
